@@ -1,14 +1,14 @@
 {
-  "name": "AFK Bot",
+  "name": "ServerBot",
   "bot-account": {
     "username": "deptraidanhgay",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "THENDSMP.aternos.me",
-    "port": 17686,
-    "version": "1.21.11"
+    "ip": "CrazySmpBd.aternos.me",
+    "port": 27897,
+    "version": "1.21.4"
   },
   "position": {
     "enabled": true,
@@ -41,8 +41,8 @@
     "max-reconnect-delay": 20000,
     "periodic-rejoin": {
       "enabled": true,
-      "min-interval": 20,
-      "max-interval": 60
+      "min-interval": 9999999,
+      "max-interval": 99999999999
     }
   },
   "movement": {
